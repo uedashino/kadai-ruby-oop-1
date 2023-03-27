@@ -21,7 +21,7 @@ end
 
   team_Giants = Team.new("Giants",67,45,8)
   team_Tigers = Team.new("Tigers",60,53,7)
-  team_Dragons = Team.new("Dragons",69,55,5)
+  team_Dragons = Team.new("Dragons",60,55,5)
   team_BayStars = Team.new("BayStars",56,58,6)
   team_Carp = Team.new("Carp",52,56,12)
   team_Swallows = Team.new("Swallows",41,69,10)
